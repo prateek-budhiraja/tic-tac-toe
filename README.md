@@ -6,8 +6,10 @@ This is a simple Tic Tac Toe game made using react states.
 ![](./ss2.png)
 
 
-You can install all the dependencies using and start the app using below commands.
+## Local Setup
 
-### `npm`
+Clone the repo and traverse into the folder and use the below commands to install dependencies and start the app on localhost.
+
+### `npm install`
 
 ### `npm start`
